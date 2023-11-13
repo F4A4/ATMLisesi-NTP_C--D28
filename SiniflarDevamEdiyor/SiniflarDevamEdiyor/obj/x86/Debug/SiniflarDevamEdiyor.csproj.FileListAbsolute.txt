@@ -1,0 +1,10 @@
+C:\Users\MO-04\Desktop\SiniflarDevamEdiyor\SiniflarDevamEdiyor\bin\Debug\SiniflarDevamEdiyor.exe
+C:\Users\MO-04\Desktop\SiniflarDevamEdiyor\SiniflarDevamEdiyor\bin\Debug\SiniflarDevamEdiyor.pdb
+C:\Users\MO-04\Desktop\SiniflarDevamEdiyor\SiniflarDevamEdiyor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MO-04\Desktop\SiniflarDevamEdiyor\SiniflarDevamEdiyor\obj\x86\Debug\SiniflarDevamEdiyor.Form1.resources
+C:\Users\MO-04\Desktop\SiniflarDevamEdiyor\SiniflarDevamEdiyor\obj\x86\Debug\SiniflarDevamEdiyor.Properties.Resources.resources
+C:\Users\MO-04\Desktop\SiniflarDevamEdiyor\SiniflarDevamEdiyor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MO-04\Desktop\SiniflarDevamEdiyor\SiniflarDevamEdiyor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MO-04\Desktop\SiniflarDevamEdiyor\SiniflarDevamEdiyor\obj\x86\Debug\SiniflarDevamEdiyor.exe
+C:\Users\MO-04\Desktop\SiniflarDevamEdiyor\SiniflarDevamEdiyor\obj\x86\Debug\SiniflarDevamEdiyor.pdb
+C:\Users\MO-04\Desktop\SiniflarDevamEdiyor\SiniflarDevamEdiyor\obj\x86\Debug\SiniflarDevamEdiyor.Form2.resources

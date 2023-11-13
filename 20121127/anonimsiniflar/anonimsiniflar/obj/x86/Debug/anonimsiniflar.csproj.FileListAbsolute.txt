@@ -1,0 +1,7 @@
+C:\Users\ogr\Desktop\anonimsiniflar\anonimsiniflar\obj\x86\Debug\anonimsiniflar.Form1.resources
+C:\Users\ogr\Desktop\anonimsiniflar\anonimsiniflar\obj\x86\Debug\anonimsiniflar.Properties.Resources.resources
+C:\Users\ogr\Desktop\anonimsiniflar\anonimsiniflar\obj\x86\Debug\anonimsiniflar.csproj.GenerateResource.Cache
+C:\Users\ogr\Desktop\anonimsiniflar\anonimsiniflar\bin\Debug\anonimsiniflar.exe
+C:\Users\ogr\Desktop\anonimsiniflar\anonimsiniflar\bin\Debug\anonimsiniflar.pdb
+C:\Users\ogr\Desktop\anonimsiniflar\anonimsiniflar\obj\x86\Debug\anonimsiniflar.exe
+C:\Users\ogr\Desktop\anonimsiniflar\anonimsiniflar\obj\x86\Debug\anonimsiniflar.pdb
